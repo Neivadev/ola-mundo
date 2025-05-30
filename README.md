@@ -1,2 +1,3 @@
-# ola mundo
-primiero repositorio versionado - gus. guanabara
+# Olá Mundo
+
+primiero repositorio versionado criado no curso de Git e GitHub - gus. guanabara
